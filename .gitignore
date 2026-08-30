@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+qdrant_storage/
+downloades/
+downloads/
+vector_db/
+*.wav
+*.mp3
+*.m4a
+*.webm
